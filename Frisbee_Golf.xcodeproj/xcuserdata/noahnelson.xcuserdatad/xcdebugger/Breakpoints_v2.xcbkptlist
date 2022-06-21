@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8F2F38A5-8B7C-4E3F-9049-03CD2366F11D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9AB2DC3-DDB8-494B-B5C4-E6C9E1208E8D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Frisbee_Golf/HomePage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "numberHoles(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27DBCCFF-11E1-468D-8629-DE01571ED0C5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Frisbee_Golf/HomePage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "HomePage"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "27DBCCFF-11E1-468D-8629-DE01571ED0C5 - 5e9e3b14ac6fd6a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Frisbee_Golf.HomePage.numPlayers.getter : Swift.Int"
+                  moduleName = "Frisbee_Golf"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noahnelson/Documents/Frisbee_Golf_App/Frisbee_Golf/Frisbee_Golf/HomePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "27DBCCFF-11E1-468D-8629-DE01571ED0C5 - 5df61aa2e6ae82b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Frisbee_Golf.HomePage.numPlayers.setter : Swift.Int"
+                  moduleName = "Frisbee_Golf"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noahnelson/Documents/Frisbee_Golf_App/Frisbee_Golf/Frisbee_Golf/HomePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "27DBCCFF-11E1-468D-8629-DE01571ED0C5 - 56f7f71667d4bf1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Frisbee_Golf.HomePage.numPlayers.modify : Swift.Int"
+                  moduleName = "Frisbee_Golf"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noahnelson/Documents/Frisbee_Golf_App/Frisbee_Golf/Frisbee_Golf/HomePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "27DBCCFF-11E1-468D-8629-DE01571ED0C5 - fa41e6f753b7d3b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Frisbee_Golf.HomePage.numPlayers.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Frisbee_Golf"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noahnelson/Documents/Frisbee_Golf_App/Frisbee_Golf/Frisbee_Golf/HomePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "27DBCCFF-11E1-468D-8629-DE01571ED0C5 - 1b85e0322a6e82e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Frisbee_Golf.HomePage.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Frisbee_Golf.HomePage"
+                  moduleName = "Frisbee_Golf"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noahnelson/Documents/Frisbee_Golf_App/Frisbee_Golf/Frisbee_Golf/HomePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "27DBCCFF-11E1-468D-8629-DE01571ED0C5 - a06886ef20abbdae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Frisbee_Golf.HomePage.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Frisbee_Golf.HomePage&gt;"
+                  moduleName = "Frisbee_Golf"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noahnelson/Documents/Frisbee_Golf_App/Frisbee_Golf/Frisbee_Golf/HomePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36A550FF-7474-4AF3-99E6-DE62357D7C09"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Frisbee_Golf/HomePage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "HomePage"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "36A550FF-7474-4AF3-99E6-DE62357D7C09 - 782b7aa61e3cd95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Frisbee_Golf.HomePage.numHoles.getter : Swift.Int"
+                  moduleName = "Frisbee_Golf"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noahnelson/Documents/Frisbee_Golf_App/Frisbee_Golf/Frisbee_Golf/HomePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "36A550FF-7474-4AF3-99E6-DE62357D7C09 - ade28be8e25ab9a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Frisbee_Golf.HomePage.numHoles.setter : Swift.Int"
+                  moduleName = "Frisbee_Golf"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noahnelson/Documents/Frisbee_Golf_App/Frisbee_Golf/Frisbee_Golf/HomePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "36A550FF-7474-4AF3-99E6-DE62357D7C09 - 7d4a4d98c966a604"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Frisbee_Golf.HomePage.numHoles.modify : Swift.Int"
+                  moduleName = "Frisbee_Golf"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noahnelson/Documents/Frisbee_Golf_App/Frisbee_Golf/Frisbee_Golf/HomePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "36A550FF-7474-4AF3-99E6-DE62357D7C09 - d58f09e13b1fc4a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Frisbee_Golf.HomePage.numHoles.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Frisbee_Golf"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noahnelson/Documents/Frisbee_Golf_App/Frisbee_Golf/Frisbee_Golf/HomePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "36A550FF-7474-4AF3-99E6-DE62357D7C09 - 1b85e0322a6e82c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Frisbee_Golf.HomePage.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Frisbee_Golf.HomePage"
+                  moduleName = "Frisbee_Golf"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noahnelson/Documents/Frisbee_Golf_App/Frisbee_Golf/Frisbee_Golf/HomePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "36A550FF-7474-4AF3-99E6-DE62357D7C09 - a06886ef20abbd81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Frisbee_Golf.HomePage.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Frisbee_Golf.HomePage&gt;"
+                  moduleName = "Frisbee_Golf"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noahnelson/Documents/Frisbee_Golf_App/Frisbee_Golf/Frisbee_Golf/HomePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EAE453CA-15F8-43D3-B51B-53DBF1049EF9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Frisbee_Golf/ScoreFinalView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "placeScores()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
